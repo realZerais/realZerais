@@ -1,5 +1,5 @@
 <!--### Hi there 👋-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&random=false&width=435&lines=I+am+me;I+am+them;I+am+everything)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=2000&pause=1000&color=16C5F7&center=true&vCenter=true&random=false&width=435&lines=I+am+you;You+are+me;You+are+I;I+am+we;Dave)](https://git.io/typing-svg)
 
 
   
